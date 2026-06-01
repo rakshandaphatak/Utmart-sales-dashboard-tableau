@@ -4,7 +4,7 @@
 This project focuses on analyzing sales performance, customer purchasing behavior, and category growth trends using Tableau.
 
 ---
-# 📊 Interactive Tableau Dashboard :
+# 📊 Interactive Tableau Dashboard 
 
 [Click here to View Dashboard](https://public.tableau.com/app/profile/rakshanda.phatak/viz/UTMARTAnalysis/Dashboard1?publish=yes)
 
